@@ -20,7 +20,7 @@
     <item>
         <shape android:shape="oval">
             <solid
-                android:color="@color/owlsnest_oval_lockscreen" />
+                android:color="@color/eveaura_oval_lockscreen" />
             <size
                 android:width="@dimen/dashboard_tile_image_size"
                 android:height="@dimen/dashboard_tile_image_size" />
@@ -32,5 +32,5 @@
         android:height="@dimen/dashboard_tile_foreground_image_size"
         android:start="@dimen/dashboard_tile_foreground_image_inset"
         android:top="@dimen/dashboard_tile_foreground_image_inset"
-        android:drawable="@drawable/ic_owlsnest_lockscreen" />
+        android:drawable="@drawable/ic_eveaura_lockscreen" />
 </layer-list>
